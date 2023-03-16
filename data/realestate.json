@@ -1,7 +1,7 @@
 {
-  "realestates":[
+  "realestates": [
     {
-      "id" : 1,
+      "id": 1,
       "advertisement": {
         "contact": "jane.doe@example.com",
         "ad_date": "02-03-2023",
@@ -11,7 +11,7 @@
       "address": {
         "canton": "Vaud",
         "zip": "1450",
-        "city" : "Sainte-Croix",
+        "city": "Sainte-Croix",
         "street": "Rue du Midi",
         "postcode": "8"
       },
@@ -32,18 +32,17 @@
         "flat_sharing": false,
         "parking_available": true,
         "parking_rent": 100
-      },      
-      "miniature" : "./assets/min/default.jpg",
+      },
       "photos": [
-        "./assets/photos/apartment1_1.jpg",
-        "./assets/photos/apartment1_2.jpg",
-        "./assets/photos/apartment1_3.jpg",
-        "./assets/photos/apartment1_4.jpg",
-        "./assets/photos/apartment1_5.jpg"
+        "/src/assets/images/photos/apartment1_1.jpg",
+        "/src/assets/images/photos/apartment1_2.jpg",
+        "/src/assets/images/photos/apartment1_3.jpg",
+        "/src/assets/images/photos/apartment1_4.jpg",
+        "/src/assets/images/photos/apartment1_5.jpg"
       ]
     },
     {
-      "id" : 2,
+      "id": 2,
       "advertisement": {
         "contact": "john.doe@example.com",
         "ad_date": "01-03-2023",
@@ -53,7 +52,7 @@
       "address": {
         "canton": "Geneva",
         "zip": "1207",
-        "city" : "Geneva",
+        "city": "Geneva",
         "street": "Rue du Rhone",
         "postcode": "15"
       },
@@ -74,18 +73,17 @@
         "flat_sharing": false,
         "parking_available": true,
         "parking_rent": 200
-      },      
-      "miniature" : "./assets/min/default.jpg",
+      },
       "photos": [
-        "./assets/photos/apartment2_1.jpg",
-        "./assets/photos/apartment2_2.jpg",
-        "./assets/photos/apartment2_3.jpg",
-        "./assets/photos/apartment2_4.jpg",
-        "./assets/photos/apartment2_5.jpg"
+        "/src/assets/images/photos/apartment2_1.jpg",
+        "/src/assets/images/photos/apartment2_2.jpg",
+        "/src/assets/images/photos/apartment2_3.jpg",
+        "/src/assets/images/photos/apartment2_4.jpg",
+        "/src/assets/images/photos/apartment2_5.jpg"
       ]
     },
     {
-      "id" : 3,
+      "id": 3,
       "advertisement": {
         "contact": "jane.smith@example.com",
         "ad_date": "01-03-2023",
@@ -95,7 +93,7 @@
       "address": {
         "canton": "Zurich",
         "zip": "8004",
-        "city" : "Zurich",
+        "city": "Zurich",
         "street": "Langstrasse",
         "postcode": "41"
       },
@@ -116,18 +114,17 @@
         "flat_sharing": false,
         "parking_available": true,
         "parking_rent": 250
-      },      
-      "miniature" : "./assets/min/default.jpg",
+      },
       "photos": [
-        "./assets/photos/apartment3_1.jpg",
-        "./assets/photos/apartment3_2.jpg",
-        "./assets/photos/apartment3_3.jpg",
-        "./assets/photos/apartment3_4.jpg",
-        "./assets/photos/apartment3_5.jpg"
+        "/src/assets/images/photos/apartment3_1.jpg",
+        "/src/assets/images/photos/apartment3_2.jpg",
+        "/src/assets/images/photos/apartment3_3.jpg",
+        "/src/assets/images/photos/apartment3_4.jpg",
+        "/src/assets/images/photos/apartment3_5.jpg"
       ]
     },
     {
-      "id" : 4,
+      "id": 4,
       "advertisement": {
         "contact": "mark.davis@example.com",
         "ad_date": "04-03-2023",
@@ -137,7 +134,7 @@
       "address": {
         "canton": "Bern",
         "zip": "3011",
-        "city" : "Bern",
+        "city": "Bern",
         "street": "Kramgasse",
         "postcode": "3"
       },
@@ -158,18 +155,17 @@
         "flat_sharing": false,
         "parking_available": true,
         "parking_rent": 200
-      },      
-      "miniature" : "./assets/min/default.jpg",
+      },
       "photos": [
-        "./assets/photos/apartment4_1.jpg",
-        "./assets/photos/apartment4_2.jpg",
-        "./assets/photos/apartment4_3.jpg",
-        "./assets/photos/apartment4_4.jpg",
-        "./assets/photos/apartment4_5.jpg"
+        "/src/assets/images/photos/apartment4_1.jpg",
+        "/src/assets/images/photos/apartment4_2.jpg",
+        "/src/assets/images/photos/apartment4_3.jpg",
+        "/src/assets/images/photos/apartment4_4.jpg",
+        "/src/assets/images/photos/apartment4_5.jpg"
       ]
     },
     {
-      "id" : 5,
+      "id": 5,
       "advertisement": {
         "contact": "emily.ng@example.com",
         "ad_date": "05-03-2023",
@@ -179,7 +175,7 @@
       "address": {
         "canton": "Lucerne",
         "zip": "6003",
-        "city" : "Lucerne",
+        "city": "Lucerne",
         "street": "Haldenstrasse",
         "postcode": "12"
       },
@@ -200,18 +196,17 @@
         "flat_sharing": false,
         "parking_available": true,
         "parking_rent": 300
-      },      
-      "miniature" : "./assets/min/default.jpg",
+      },
       "photos": [
-        "./assets/photos/apartment5_1.jpg",
-        "./assets/photos/apartment5_2.jpg",
-        "./assets/photos/apartment5_3.jpg",
-        "./assets/photos/apartment5_4.jpg",
-        "./assets/photos/apartment5_5.jpg"
+        "/src/assets/images/photos/apartment5_1.jpg",
+        "/src/assets/images/photos/apartment5_2.jpg",
+        "/src/assets/images/photos/apartment5_3.jpg",
+        "/src/assets/images/photos/apartment5_4.jpg",
+        "/src/assets/images/photos/apartment5_5.jpg"
       ]
     },
     {
-      "id" : 6,
+      "id": 6,
       "advertisement": {
         "contact": "david.lee@example.com",
         "ad_date": "06-03-2023",
@@ -221,7 +216,7 @@
       "address": {
         "canton": "Valais",
         "zip": "3977",
-        "city" : "Grimentz",
+        "city": "Grimentz",
         "street": "Rue Centrale",
         "postcode": "11"
       },
@@ -242,18 +237,17 @@
         "flat_sharing": false,
         "parking_available": true,
         "parking_rent": 100
-      },      
-      "miniature" : "./assets/min/default.jpg",
+      },
       "photos": [
-        "./assets/photos/apartment6_1.jpg",
-        "./assets/photos/apartment6_2.jpg",
-        "./assets/photos/apartment6_3.jpg",
-        "./assets/photos/apartment6_4.jpg",
-        "./assets/photos/apartment6_5.jpg"
+        "/src/assets/images/photos/apartment3_1.jpg",
+        "/src/assets/images/photos/apartment3_2.jpg",
+        "/src/assets/images/photos/apartment3_3.jpg",
+        "/src/assets/images/photos/apartment3_4.jpg",
+        "/src/assets/images/photos/apartment3_5.jpg"
       ]
     },
     {
-      "id" : 7,
+      "id": 7,
       "advertisement": {
         "contact": "sophie.chen@example.com",
         "ad_date": "07-03-2023",
@@ -263,7 +257,7 @@
       "address": {
         "canton": "Geneva",
         "zip": "1204",
-        "city" : "Geneva",
+        "city": "Geneva",
         "street": "Rue du Rhône",
         "postcode": "22"
       },
@@ -284,18 +278,17 @@
         "flat_sharing": false,
         "parking_available": false,
         "parking_rent": null
-      },      
-      "miniature" : "./assets/min/default.jpg",
+      },
       "photos": [
-        "./assets/photos/apartment7_1.jpg",
-        "./assets/photos/apartment7_2.jpg",
-        "./assets/photos/apartment7_3.jpg",
-        "./assets/photos/apartment7_4.jpg",
-        "./assets/photos/apartment7_5.jpg"
+        "/src/assets/images/photos/apartment1_1.jpg",
+        "/src/assets/images/photos/apartment1_2.jpg",
+        "/src/assets/images/photos/apartment1_3.jpg",
+        "/src/assets/images/photos/apartment1_4.jpg",
+        "/src/assets/images/photos/apartment1_5.jpg"
       ]
     },
     {
-      "id" : 8,
+      "id": 8,
       "advertisement": {
         "contact": "michael.johnson@example.com",
         "ad_date": "08-03-2023",
@@ -305,7 +298,7 @@
       "address": {
         "canton": "Zurich",
         "zip": "8004",
-        "city" : "Zurich",
+        "city": "Zurich",
         "street": "Langstrasse",
         "postcode": "27"
       },
@@ -326,18 +319,17 @@
         "flat_sharing": false,
         "parking_available": true,
         "parking_rent": 150
-      },      
-      "miniature" : "./assets/min/default.jpg",
+      },
       "photos": [
-        "./assets/photos/apartment8_1.jpg",
-        "./assets/photos/apartment8_2.jpg",
-        "./assets/photos/apartment8_3.jpg",
-        "./assets/photos/apartment8_4.jpg",
-        "./assets/photos/apartment8_5.jpg"
+        "/src/assets/images/photos/apartment3_1.jpg",
+        "/src/assets/images/photos/apartment3_2.jpg",
+        "/src/assets/images/photos/apartment3_3.jpg",
+        "/src/assets/images/photos/apartment3_4.jpg",
+        "/src/assets/images/photos/apartment3_5.jpg"
       ]
     },
     {
-      "id" : 9,
+      "id": 9,
       "advertisement": {
         "contact": "maria.garcia@example.com",
         "ad_date": "09-03-2023",
@@ -347,7 +339,7 @@
       "address": {
         "canton": "Zug",
         "zip": "6300",
-        "city" : "Zug",
+        "city": "Zug",
         "street": "Hinterbergstrasse",
         "postcode": "13"
       },
@@ -368,18 +360,17 @@
         "flat_sharing": false,
         "parking_available": true,
         "parking_rent": 100
-      },      
-      "miniature" : "./assets/min/default.jpg",
+      },
       "photos": [
-        "./assets/photos/apartment9_1.jpg",
-        "./assets/photos/apartment9_2.jpg",
-        "./assets/photos/apartment9_3.jpg",
-        "./assets/photos/apartment9_4.jpg",
-        "./assets/photos/apartment9_5.jpg"
+        "/src/assets/images/photos/apartment4_1.jpg",
+        "/src/assets/images/photos/apartment4_2.jpg",
+        "/src/assets/images/photos/apartment4_3.jpg",
+        "/src/assets/images/photos/apartment4_4.jpg",
+        "/src/assets/images/photos/apartment4_5.jpg"
       ]
     },
     {
-      "id" : 10,
+      "id": 10,
       "advertisement": {
         "contact": "peter.wang@example.com",
         "ad_date": "10-03-2023",
@@ -389,7 +380,7 @@
       "address": {
         "canton": "Zug",
         "zip": "6300",
-        "city" : "Zug",
+        "city": "Zug",
         "street": "Bösch",
         "postcode": "80"
       },
@@ -410,17 +401,16 @@
         "flat_sharing": false,
         "parking_available": false
       },
-      "miniature" : "./assets/min/default.jpg",
       "photos": [
-        "./assets/photos/apartment10_1.jpg",
-        "./assets/photos/apartment10_2.jpg",
-        "./assets/photos/apartment10_3.jpg",
-        "./assets/photos/apartment10_4.jpg",
-        "./assets/photos/apartment10_5.jpg"
+        "/src/assets/images/photos/apartment1_1.jpg",
+        "/src/assets/images/photos/apartment1_2.jpg",
+        "/src/assets/images/photos/apartment1_3.jpg",
+        "/src/assets/images/photos/apartment1_4.jpg",
+        "/src/assets/images/photos/apartment1_5.jpg"
       ]
     },
     {
-      "id" : 11,
+      "id": 11,
       "advertisement": {
         "contact": "carla.bianchi@example.com",
         "ad_date": "11-03-2023",
@@ -430,7 +420,7 @@
       "address": {
         "canton": "Ticino",
         "zip": "6600",
-        "city" : "Locarno",
+        "city": "Locarno",
         "street": "Via ai Monti della Trinità",
         "postcode": "35"
       },
@@ -451,14 +441,13 @@
         "flat_sharing": false,
         "parking_available": true,
         "parking_rent": 100
-      },      
-      "miniature" : "./assets/min/default.jpg",
+      },
       "photos": [
-        "./assets/photos/apartment11_1.jpg",
-        "./assets/photos/apartment11_2.jpg",
-        "./assets/photos/apartment11_3.jpg",
-        "./assets/photos/apartment11_4.jpg",
-        "./assets/photos/apartment11_5.jpg"
+        "/src/assets/images/photos/apartment5_1.jpg",
+        "/src/assets/images/photos/apartment5_2.jpg",
+        "/src/assets/images/photos/apartment5_3.jpg",
+        "/src/assets/images/photos/apartment5_4.jpg",
+        "/src/assets/images/photos/apartment5_5.jpg"
       ]
     },
     {
@@ -494,11 +483,11 @@
         "parking_available": false,
         "parking_rent": null,
         "photos": [
-          "./assets/photos/apartment12_1.jpg",
-          "./assets/photos/apartment12_2.jpg",
-          "./assets/photos/apartment12_3.jpg",
-          "./assets/photos/apartment12_4.jpg",
-          "./assets/photos/apartment12_5.jpg"
+          "/src/assets/images/photos/apartment2_1.jpg",
+          "/src/assets/images/photos/apartment2_2.jpg",
+          "/src/assets/images/photos/apartment2_3.jpg",
+          "/src/assets/images/photos/apartment2_4.jpg",
+          "/src/assets/images/photos/apartment2_5.jpg"
         ]
       }
     },
@@ -535,11 +524,11 @@
         "parking_available": false,
         "parking_rent": null,
         "photos": [
-          "./assets/photos/apartment13_1.jpg",
-          "./assets/photos/apartment13_2.jpg",
-          "./assets/photos/apartment13_3.jpg",
-          "./assets/photos/apartment13_4.jpg",
-          "./assets/photos/apartment13_5.jpg"
+          "/src/assets/images/photos/apartment3_1.jpg",
+          "/src/assets/images/photos/apartment3_2.jpg",
+          "/src/assets/images/photos/apartment3_3.jpg",
+          "/src/assets/images/photos/apartment3_4.jpg",
+          "/src/assets/images/photos/apartment3_5.jpg"
         ]
       }
     },
@@ -576,11 +565,11 @@
         "parking_available": true,
         "parking_rent": 100,
         "photos": [
-          "./assets/photos/apartment14_1.jpg",
-          "./assets/photos/apartment14_2.jpg",
-          "./assets/photos/apartment14_3.jpg",
-          "./assets/photos/apartment14_4.jpg",
-          "./assets/photos/apartment14_5.jpg"
+          "/src/assets/images/photos/apartment4_1.jpg",
+          "/src/assets/images/photos/apartment4_2.jpg",
+          "/src/assets/images/photos/apartment4_3.jpg",
+          "/src/assets/images/photos/apartment4_4.jpg",
+          "/src/assets/images/photos/apartment4_5.jpg"
         ]
       }
     },
@@ -617,11 +606,11 @@
         "parking_available": false,
         "parking_rent": null,
         "photos": [
-          "./assets/photos/apartment15_1.jpg",
-          "./assets/photos/apartment15_2.jpg",
-          "./assets/photos/apartment15_3.jpg",
-          "./assets/photos/apartment15_4.jpg",
-          "./assets/photos/apartment15_5.jpg"
+          "/src/assets/images/photos/apartment5_1.jpg",
+          "/src/assets/images/photos/apartment5_2.jpg",
+          "/src/assets/images/photos/apartment5_3.jpg",
+          "/src/assets/images/photos/apartment5_4.jpg",
+          "/src/assets/images/photos/apartment5_5.jpg"
         ]
       }
     },
@@ -657,11 +646,11 @@
         "parking_available": true,
         "parking_rent": 100,
         "photos": [
-          "./assets/photos/apartment16_1.jpg",
-          "./assets/photos/apartment16_2.jpg",
-          "./assets/photos/apartment16_3.jpg",
-          "./assets/photos/apartment16_4.jpg",
-          "./assets/photos/apartment16_5.jpg"
+          "/src/assets/images/photos/apartment1_1.jpg",
+          "/src/assets/images/photos/apartment1_2.jpg",
+          "/src/assets/images/photos/apartment1_3.jpg",
+          "/src/assets/images/photos/apartment1_4.jpg",
+          "/src/assets/images/photos/apartment1_5.jpg"
         ]
       }
     },
@@ -698,11 +687,11 @@
         "parking_available": false,
         "parking_rent": null,
         "photos": [
-          "./assets/photos/apartment17_1.jpg",
-          "./assets/photos/apartment17_2.jpg",
-          "./assets/photos/apartment17_3.jpg",
-          "./assets/photos/apartment17_4.jpg",
-          "./assets/photos/apartment17_5.jpg"
+          "/src/assets/images/photos/apartment3_1.jpg",
+          "/src/assets/images/photos/apartment3_2.jpg",
+          "/src/assets/images/photos/apartment3_3.jpg",
+          "/src/assets/images/photos/apartment4_4.jpg",
+          "/src/assets/images/photos/apartment5_5.jpg"
         ]
       }
     },
@@ -739,11 +728,11 @@
         "parking_available": true,
         "parking_rent": 100,
         "photos": [
-          "./assets/photos/apartment18_1.jpg",
-          "./assets/photos/apartment18_2.jpg",
-          "./assets/photos/apartment18_3.jpg",
-          "./assets/photos/apartment18_4.jpg",
-          "./assets/photos/apartment18_5.jpg"
+          "/src/assets/images/photos/apartment3_1.jpg",
+          "/src/assets/images/photos/apartment3_2.jpg",
+          "/src/assets/images/photos/apartment3_3.jpg",
+          "/src/assets/images/photos/apartment3_4.jpg",
+          "/src/assets/images/photos/apartment3_5.jpg"
         ]
       }
     },
@@ -780,11 +769,11 @@
         "parking_available": true,
         "parking_rent": 100,
         "photos": [
-          "./assets/photos/apartment19_1.jpg",
-          "./assets/photos/apartment19_2.jpg",
-          "./assets/photos/apartment19_3.jpg",
-          "./assets/photos/apartment19_4.jpg",
-          "./assets/photos/apartment19_5.jpg"
+          "/src/assets/images/photos/apartment2_1.jpg",
+          "/src/assets/images/photos/apartment2_2.jpg",
+          "/src/assets/images/photos/apartment2_3.jpg",
+          "/src/assets/images/photos/apartment2_4.jpg",
+          "/src/assets/images/photos/apartment2_5.jpg"
         ]
       }
     },
@@ -821,11 +810,11 @@
         "parking_available": true,
         "parking_rent": 150,
         "photos": [
-          "./assets/photos/apartment20_1.jpg",
-          "./assets/photos/apartment20_2.jpg",
-          "./assets/photos/apartment20_3.jpg",
-          "./assets/photos/apartment20_4.jpg",
-          "./assets/photos/apartment20_5.jpg"
+          "/src/assets/images/photos/apartment3_1.jpg",
+          "/src/assets/images/photos/apartment2_2.jpg",
+          "/src/assets/images/photos/apartment2_3.jpg",
+          "/src/assets/images/photos/apartment5_4.jpg",
+          "/src/assets/images/photos/apartment2_5.jpg"
         ]
       }
     },
@@ -862,11 +851,11 @@
         "parking_available": false,
         "parking_rent": null,
         "photos": [
-          "./assets/photos/apartment21_1.jpg",
-          "./assets/photos/apartment21_2.jpg",
-          "./assets/photos/apartment21_3.jpg",
-          "./assets/photos/apartment21_4.jpg",
-          "./assets/photos/apartment21_5.jpg"
+          "/src/assets/images/photos/apartment1_1.jpg",
+          "/src/assets/images/photos/apartment1_2.jpg",
+          "/src/assets/images/photos/apartment1_3.jpg",
+          "/src/assets/images/photos/apartment1_4.jpg",
+          "/src/assets/images/photos/apartment1_5.jpg"
         ]
       }
     },
@@ -903,11 +892,11 @@
         "parking_available": true,
         "parking_rent": 150,
         "photos": [
-          "./assets/photos/apartment22_1.jpg",
-          "./assets/photos/apartment22_2.jpg",
-          "./assets/photos/apartment22_3.jpg",
-          "./assets/photos/apartment22_4.jpg",
-          "./assets/photos/apartment22_5.jpg"
+          "/src/assets/images/photos/apartment2_1.jpg",
+          "/src/assets/images/photos/apartment2_2.jpg",
+          "/src/assets/images/photos/apartment2_3.jpg",
+          "/src/assets/images/photos/apartment2_4.jpg",
+          "/src/assets/images/photos/apartment2_5.jpg"
         ]
       }
     }
