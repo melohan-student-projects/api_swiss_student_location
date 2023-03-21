@@ -481,15 +481,15 @@
         "charges": 200,
         "flat_sharing": false,
         "parking_available": false,
-        "parking_rent": null,
-        "photos": [
-          "/src/assets/images/photos/apartment2_1.jpg",
-          "/src/assets/images/photos/apartment2_2.jpg",
-          "/src/assets/images/photos/apartment2_3.jpg",
-          "/src/assets/images/photos/apartment2_4.jpg",
-          "/src/assets/images/photos/apartment2_5.jpg"
-        ]
-      }
+        "parking_rent": null        
+      },
+      "photos": [
+        "/src/assets/images/photos/apartment2_1.jpg",
+        "/src/assets/images/photos/apartment2_2.jpg",
+        "/src/assets/images/photos/apartment2_3.jpg",
+        "/src/assets/images/photos/apartment2_4.jpg",
+        "/src/assets/images/photos/apartment2_5.jpg"
+      ]
     },
     {
       "id": 13,
@@ -522,15 +522,15 @@
         "charges": 150,
         "flat_sharing": false,
         "parking_available": false,
-        "parking_rent": null,
-        "photos": [
-          "/src/assets/images/photos/apartment3_1.jpg",
-          "/src/assets/images/photos/apartment3_2.jpg",
-          "/src/assets/images/photos/apartment3_3.jpg",
-          "/src/assets/images/photos/apartment3_4.jpg",
-          "/src/assets/images/photos/apartment3_5.jpg"
-        ]
-      }
+        "parking_rent": null
+      },
+      "photos": [
+        "/src/assets/images/photos/apartment3_1.jpg",
+        "/src/assets/images/photos/apartment3_2.jpg",
+        "/src/assets/images/photos/apartment3_3.jpg",
+        "/src/assets/images/photos/apartment3_4.jpg",
+        "/src/assets/images/photos/apartment3_5.jpg"
+      ]
     },
     {
       "id": 14,
@@ -563,15 +563,15 @@
         "charges": 250,
         "flat_sharing": false,
         "parking_available": true,
-        "parking_rent": 100,
-        "photos": [
-          "/src/assets/images/photos/apartment4_1.jpg",
-          "/src/assets/images/photos/apartment4_2.jpg",
-          "/src/assets/images/photos/apartment4_3.jpg",
-          "/src/assets/images/photos/apartment4_4.jpg",
-          "/src/assets/images/photos/apartment4_5.jpg"
-        ]
-      }
+        "parking_rent": 100
+      },
+      "photos": [
+        "/src/assets/images/photos/apartment4_1.jpg",
+        "/src/assets/images/photos/apartment4_2.jpg",
+        "/src/assets/images/photos/apartment4_3.jpg",
+        "/src/assets/images/photos/apartment4_4.jpg",
+        "/src/assets/images/photos/apartment4_5.jpg"
+      ]
     },
     {
       "id": 15,
@@ -604,15 +604,15 @@
         "charges": 150,
         "flat_sharing": false,
         "parking_available": false,
-        "parking_rent": null,
-        "photos": [
-          "/src/assets/images/photos/apartment5_1.jpg",
-          "/src/assets/images/photos/apartment5_2.jpg",
-          "/src/assets/images/photos/apartment5_3.jpg",
-          "/src/assets/images/photos/apartment5_4.jpg",
-          "/src/assets/images/photos/apartment5_5.jpg"
-        ]
-      }
+        "parking_rent": null
+      },
+      "photos": [
+        "/src/assets/images/photos/apartment5_1.jpg",
+        "/src/assets/images/photos/apartment5_2.jpg",
+        "/src/assets/images/photos/apartment5_3.jpg",
+        "/src/assets/images/photos/apartment5_4.jpg",
+        "/src/assets/images/photos/apartment5_5.jpg"
+      ]
     },
     {
       "id": 16,
@@ -644,15 +644,15 @@
         "rent": 2200,
         "flat_sharing": false,
         "parking_available": true,
-        "parking_rent": 100,
-        "photos": [
-          "/src/assets/images/photos/apartment1_1.jpg",
-          "/src/assets/images/photos/apartment1_2.jpg",
-          "/src/assets/images/photos/apartment1_3.jpg",
-          "/src/assets/images/photos/apartment1_4.jpg",
-          "/src/assets/images/photos/apartment1_5.jpg"
-        ]
-      }
+        "parking_rent": 100
+      },
+      "photos": [
+        "/src/assets/images/photos/apartment1_1.jpg",
+        "/src/assets/images/photos/apartment1_2.jpg",
+        "/src/assets/images/photos/apartment1_3.jpg",
+        "/src/assets/images/photos/apartment1_4.jpg",
+        "/src/assets/images/photos/apartment1_5.jpg"
+      ]
     },
     {
       "id": 17,
@@ -685,15 +685,15 @@
         "charges": 250,
         "flat_sharing": false,
         "parking_available": false,
-        "parking_rent": null,
-        "photos": [
-          "/src/assets/images/photos/apartment3_1.jpg",
-          "/src/assets/images/photos/apartment3_2.jpg",
-          "/src/assets/images/photos/apartment3_3.jpg",
-          "/src/assets/images/photos/apartment4_4.jpg",
-          "/src/assets/images/photos/apartment5_5.jpg"
-        ]
-      }
+        "parking_rent": null
+      },
+      "photos": [
+        "/src/assets/images/photos/apartment3_1.jpg",
+        "/src/assets/images/photos/apartment3_2.jpg",
+        "/src/assets/images/photos/apartment3_3.jpg",
+        "/src/assets/images/photos/apartment4_4.jpg",
+        "/src/assets/images/photos/apartment5_5.jpg"
+      ]
     },
     {
       "id": 18,
@@ -726,15 +726,15 @@
         "charges": 150,
         "flat_sharing": false,
         "parking_available": true,
-        "parking_rent": 100,
-        "photos": [
-          "/src/assets/images/photos/apartment3_1.jpg",
-          "/src/assets/images/photos/apartment3_2.jpg",
-          "/src/assets/images/photos/apartment3_3.jpg",
-          "/src/assets/images/photos/apartment3_4.jpg",
-          "/src/assets/images/photos/apartment3_5.jpg"
-        ]
-      }
+        "parking_rent": 100
+      },
+      "photos": [
+        "/src/assets/images/photos/apartment3_1.jpg",
+        "/src/assets/images/photos/apartment3_2.jpg",
+        "/src/assets/images/photos/apartment3_3.jpg",
+        "/src/assets/images/photos/apartment3_4.jpg",
+        "/src/assets/images/photos/apartment3_5.jpg"
+      ]
     },
     {
       "id": 19,
@@ -767,15 +767,15 @@
         "charges": 150,
         "flat_sharing": false,
         "parking_available": true,
-        "parking_rent": 100,
-        "photos": [
-          "/src/assets/images/photos/apartment2_1.jpg",
-          "/src/assets/images/photos/apartment2_2.jpg",
-          "/src/assets/images/photos/apartment2_3.jpg",
-          "/src/assets/images/photos/apartment2_4.jpg",
-          "/src/assets/images/photos/apartment2_5.jpg"
-        ]
-      }
+        "parking_rent": 100
+      },
+      "photos": [
+        "/src/assets/images/photos/apartment2_1.jpg",
+        "/src/assets/images/photos/apartment2_2.jpg",
+        "/src/assets/images/photos/apartment2_3.jpg",
+        "/src/assets/images/photos/apartment2_4.jpg",
+        "/src/assets/images/photos/apartment2_5.jpg"
+      ]
     },
     {
       "id": 20,
@@ -808,15 +808,15 @@
         "charges": 250,
         "flat_sharing": false,
         "parking_available": true,
-        "parking_rent": 150,
-        "photos": [
-          "/src/assets/images/photos/apartment3_1.jpg",
-          "/src/assets/images/photos/apartment2_2.jpg",
-          "/src/assets/images/photos/apartment2_3.jpg",
-          "/src/assets/images/photos/apartment5_4.jpg",
-          "/src/assets/images/photos/apartment2_5.jpg"
-        ]
-      }
+        "parking_rent": 150
+      },
+      "photos": [
+        "/src/assets/images/photos/apartment3_1.jpg",
+        "/src/assets/images/photos/apartment2_2.jpg",
+        "/src/assets/images/photos/apartment2_3.jpg",
+        "/src/assets/images/photos/apartment5_4.jpg",
+        "/src/assets/images/photos/apartment2_5.jpg"
+      ]
     },
     {
       "id": 21,
@@ -849,15 +849,15 @@
         "charges": 200,
         "flat_sharing": false,
         "parking_available": false,
-        "parking_rent": null,
-        "photos": [
-          "/src/assets/images/photos/apartment1_1.jpg",
-          "/src/assets/images/photos/apartment1_2.jpg",
-          "/src/assets/images/photos/apartment1_3.jpg",
-          "/src/assets/images/photos/apartment1_4.jpg",
-          "/src/assets/images/photos/apartment1_5.jpg"
-        ]
-      }
+        "parking_rent": null
+      },
+      "photos": [
+        "/src/assets/images/photos/apartment1_1.jpg",
+        "/src/assets/images/photos/apartment1_2.jpg",
+        "/src/assets/images/photos/apartment1_3.jpg",
+        "/src/assets/images/photos/apartment1_4.jpg",
+        "/src/assets/images/photos/apartment1_5.jpg"
+      ]
     },
     {
       "id": 22,
@@ -890,15 +890,15 @@
         "charges": 300,
         "flat_sharing": false,
         "parking_available": true,
-        "parking_rent": 150,
-        "photos": [
-          "/src/assets/images/photos/apartment2_1.jpg",
-          "/src/assets/images/photos/apartment2_2.jpg",
-          "/src/assets/images/photos/apartment2_3.jpg",
-          "/src/assets/images/photos/apartment2_4.jpg",
-          "/src/assets/images/photos/apartment2_5.jpg"
-        ]
-      }
+        "parking_rent": 150
+      },
+      "photos": [
+        "/src/assets/images/photos/apartment2_1.jpg",
+        "/src/assets/images/photos/apartment2_2.jpg",
+        "/src/assets/images/photos/apartment2_3.jpg",
+        "/src/assets/images/photos/apartment2_4.jpg",
+        "/src/assets/images/photos/apartment2_5.jpg"
+      ]
     }
   ]
 }
