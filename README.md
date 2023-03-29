@@ -10,12 +10,18 @@ This project delivers the necessary API to the Swiss Student Location site. It i
 
 ## Getting started
 
-1. Install dependencies
+1. Clone the repository
+```shell
+git clone git@github.com:melohan/api_swiss_student_location.git
+cd api_swiss_student_location/
+```
+
+2. Install dependencies
 ```shell
 npm install -g json-server
 ```
 
-2. Run the server
+3. Run the server
 ```shell
 json-server --watch data/realestate.json
 ```
