@@ -3034,18 +3034,6 @@
   {"name": "Bellinzona", "canton": "Ticino", "npa": 6500},
   {"name": "Locarno", "canton": "Ticino", "npa": 6600}
   ],
-"criterias":[
-  {"name": "Meublé", "value": "furnished"},
-  {"name": "Cuisine équipées (cuisinière, réfrigérateur, etc)", "value": "kitchen_equipped"},
-  {"name": "Salle de Bain privée", "value": "bathroom_private"},
-  {"name": "Baundrie", "value": "laundry"},
-  {"name": "Internet à haut débit", "value": "internet"},
-  {"name": "Balcon / terasse", "value": "balcony"},
-  {"name": "Cave à disposition", "value": "cellar"},
-  {"name": "Place de parking", "value": "parking_available"},
-  {"name": "Animaux de compagnie accepté", "value": "pets"},
-  {"name": "Accessibilité (pour personne à mobilité réduite)", "value": "accessibility"}
-  ],
 "institutions":[
   {"name": "CPNV", "location": "Sainte-Croix"},
   {"name": "HEIG-VD", "location": "Yverdon-les-Bains"},
@@ -3061,19 +3049,5 @@
   {"name": "University of Zurich", "location": "Zurich"},
   {"name": "University of Fribourg", "location": "Fribourg"},
   {"name": "University of Lugano", "location": "Lugano"}
-  ],
-"types":[
-  {"name": "Studio", "code": "STU"},
-  {"name": "Appartement", "code": "APP"},
-  {"name": "Colocation", "code": "COL"},
-  {"name": "Chambre étudiante", "code": "CHA"},
-  {"name": "Maison", "code": "MAI"},
-  {"name": "Villa", "code": "VIL"},
-  {"name": "Terrain", "code": "TER"},
-  {"name": "1-bedroom", "code": "1B"},
-  {"name": "2-bedroom", "code": "2B"},
-  {"name": "3-bedroom", "code": "3B"},
-  {"name": "4-bedroom", "code": "4B"},
-  {"name": "5-bedroom", "code": "5B"}
-  ]  
+  ]
 }
