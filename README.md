@@ -31,16 +31,12 @@ json-server --watch data/realestate.json
 ```shell
 .
 ├── assets
-│   ├── min
-│   └── photos
 ├── data
 │   └── realestate.json
 ├── LICENSE
 └── README.md
 ```
 
-- `./assets/min` : contains realstate minature
-- `./assets/photos`: contains realstate photos
 - `./data/realstate.json`: API data file
 
 ## Resource
